@@ -1,3 +1,3 @@
 <?php
 
-echo "create structure project";
+echo "create structure project test";
