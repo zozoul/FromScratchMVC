@@ -1,3 +1,3 @@
 <?php
 
-echo "create structure project test";
+var_dump($_GET);
