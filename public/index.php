@@ -14,7 +14,7 @@ require '../templates/header.php';
 
 if (is_array($match)) {
     $params = $match['params'];
-    var_dump($match['target']);
+    //var_dump($match['target']);
     //require "../templates/{$match['target']}.php";
     require "../templates/ok.php";
 } else {
